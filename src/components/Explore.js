@@ -29,7 +29,7 @@ export class Explore extends Component {
       //           source={require('/Users/pankajsingh/Assignment/src/assets/arrow1.png')}
       //         />
 
-      //     </View>
+      //     </View>k
 
       //   </View>
       <View style={styles.expMain}>
