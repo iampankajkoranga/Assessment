@@ -26,7 +26,7 @@ const styles=StyleSheet.create({
   five:{
     flexDirection:'row',
     backgroundColor:'rgb(255,255,255)',
-    height:54,
+    height:50,
     marginHorizontal:24,
     borderRadius:20,
     alignItems:'center',

@@ -5,6 +5,7 @@ import Services from './Services';
 import Explore from './Explore';
 import Cards from './Cards';
 import FiveG from './FiveG';
+import Banner from './banner';
 
 
 
@@ -62,6 +63,7 @@ export class Main extends Component {
           </View>
         <Cards></Cards>
         <FiveG></FiveG>
+        <Banner></Banner>
         <Services></Services>
         <Explore></Explore>
         

@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
     flex: 1,
     flexDirection: 'row',
     borderRadius:10,
-    backgroundColor: 'red',
+    backgroundColor: 'white',
     justifyContent: 'space-between',
     // width:500
     marginHorizontal:20
@@ -92,7 +92,7 @@ const styles = StyleSheet.create({
     flex: 1,
     flexDirection: 'row',
     borderRadius:10,
-    backgroundColor: 'green',
+    backgroundColor: 'white',
     justifyContent: 'space-between',
     // width:500
     // marginHorizontal:20
