@@ -27,11 +27,12 @@ const styles=StyleSheet.create({
     flexDirection:'row',
     backgroundColor:'rgb(255,255,255)',
     height:50,
-    marginHorizontal:24,
+    marginHorizontal:20,
+    marginTop:20,
     borderRadius:20,
     alignItems:'center',
     justifyContent:'space-around',
-    paddingHorizontal:10
+    marginBottom:20
 },
 logo:{
     width:75,
