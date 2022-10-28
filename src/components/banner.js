@@ -40,7 +40,7 @@ const styles=({
     },
     image:{
         marginHorizontal:20,
-        height:100,
+        height:150,
         width:300,
         marginBottom:20,
         borderRadius:10

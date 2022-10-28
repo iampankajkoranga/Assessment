@@ -85,7 +85,7 @@ const styles = StyleSheet.create({
   //     //   justifyContent:'space-between',
   //         // backgroundColor:"red",
 
-  //       // marginHorizontal:20
+  //      
 
   //   },
   exp2: {
@@ -95,7 +95,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'white',
     justifyContent: 'space-between',
     // width:500
-    // marginHorizontal:20
+ 
   },
   expMain: {
     // backgroundColor: 'red',

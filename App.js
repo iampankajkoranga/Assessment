@@ -9,6 +9,12 @@ import {Image,StyleSheet} from "react-native"
 
 const Tab = createBottomTabNavigator();
 
+// class Manage extends Component {
+//   render() {
+//     return alert('empty');
+//   }
+// }
+
 export class App extends Component {
   render() {
     return (
@@ -30,6 +36,23 @@ export class App extends Component {
           component={Main}
         />
         </Tab.Navigator>
+        {/* <Tab.Navigator>
+        <Tab.Screen
+          options={{
+              // tabBarLabel:"Home",
+              // headerShown: false
+          
+            // tabBarIcon: ({color, size}) => (
+            //   // <Image
+            //   //   source={require('./images/home.png')}
+             
+            //   // />
+            // ),
+          }}
+          name="manage"
+          component={Manage}
+        />
+        </Tab.Navigator> */}
       </NavigationContainer>
     )
   }

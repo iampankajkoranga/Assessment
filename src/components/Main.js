@@ -89,86 +89,12 @@ const styles = StyleSheet.create({
   headerText: {
     padding: 15,
     fontWeight: 'bold',
-  },
-  image: {
-    height: 42,
-    width: 42,
-    borderWidth: 0.5,
-    // backgroundColor:"grey",
-    borderRadius: 50,
-  },
-  Logo: {
-    height: 35,
-    width: 35,
-    backgroundColor: 'grey',
-    borderRadius: 50,
-    // marginRight: 45,
-  },
-  Logo2: {
-    height: 35,
-    width: 35,
-    backgroundColor: 'grey',
-    borderRadius: 50,
-    marginRight: 45,
-  },
-  headerTwo: {
-    borderBottomWidth: 5,
-    borderBottomColor: 'grey',
-    padding: 20,
-    backgroundColor: 'white',
-    borderRadius: 20,
-    marginHorizontal: 20,
-    // flexDirection:"row"
-  },
-  shortcurtText: {
-    fontSize: 9,
-    color: 'grey',
-    fontWeight: 'bold',
-    marginBottom: 12,
-  },
-  textUnder: {
-    fontSize: 10,
-    marginBottom: 8,
-    marginTop: 4,
-    // alignItems:"center",
-    // flexDirection:""
-    // position:"absolute",
-  },
+  }
+  
+ 
 
-  logos1: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    marginBottom: 20,
-    marginTop: 10,
-  },
-  logos2: {
-    flexDirection: 'row',
-    justifyContent: 'space-evenly',
 
-    // justifyContent:"flex-start",
-  },
-  logosServices: {
-    flexDirection:"column"
-    // padding:2
-  },
-  service: {
-    padding: 15,
-    backgroundColor: 'white',
-    marginHorizontal: 20,
-    borderRadius: 20,
-   
-    // justifyContent:"space-between"
-  },
-  services: {
-    // borderRadius: 20,
-    // backgroundColor:"white",
-    // marginHorizontal: 8,
-    // padding: 15,
-    // // padding:20,
-    flexDirection:"row",
-    justifyContent: 'space-between',
-    flexWrap: 'wrap',
-  },
+
 
 
 
